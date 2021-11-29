@@ -1,0 +1,16 @@
+D:\C#__\CSharpPractise\bin\Debug\net5.0\CSharpPractise.exe
+D:\C#__\CSharpPractise\bin\Debug\net5.0\CSharpPractise.deps.json
+D:\C#__\CSharpPractise\bin\Debug\net5.0\CSharpPractise.runtimeconfig.json
+D:\C#__\CSharpPractise\bin\Debug\net5.0\CSharpPractise.runtimeconfig.dev.json
+D:\C#__\CSharpPractise\bin\Debug\net5.0\CSharpPractise.dll
+D:\C#__\CSharpPractise\bin\Debug\net5.0\ref\CSharpPractise.dll
+D:\C#__\CSharpPractise\bin\Debug\net5.0\CSharpPractise.pdb
+D:\C#__\CSharpPractise\obj\Debug\net5.0\CSharpPractise.csprojAssemblyReference.cache
+D:\C#__\CSharpPractise\obj\Debug\net5.0\CSharpPractise.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#__\CSharpPractise\obj\Debug\net5.0\CSharpPractise.AssemblyInfoInputs.cache
+D:\C#__\CSharpPractise\obj\Debug\net5.0\CSharpPractise.AssemblyInfo.cs
+D:\C#__\CSharpPractise\obj\Debug\net5.0\CSharpPractise.csproj.CoreCompileInputs.cache
+D:\C#__\CSharpPractise\obj\Debug\net5.0\CSharpPractise.dll
+D:\C#__\CSharpPractise\obj\Debug\net5.0\ref\CSharpPractise.dll
+D:\C#__\CSharpPractise\obj\Debug\net5.0\CSharpPractise.pdb
+D:\C#__\CSharpPractise\obj\Debug\net5.0\CSharpPractise.genruntimeconfig.cache
